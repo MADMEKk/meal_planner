@@ -1,0 +1,206 @@
+{
+    "balanced": [
+        {
+            "meal_type": "breakfast",
+            "recipe": {
+                "title": "Classic Oatmeal with Fruits",
+                "description": "Hearty oatmeal topped with fresh fruits and honey",
+                "ingredients": [
+                    {"name": "rolled oats", "amount": 50, "unit": "g"},
+                    {"name": "milk", "amount": 200, "unit": "ml"},
+                    {"name": "banana", "amount": 1, "unit": "piece"},
+                    {"name": "honey", "amount": 15, "unit": "ml"}
+                ],
+                "instructions": [
+                    "Bring milk to a boil",
+                    "Add oats and cook for 5 minutes",
+                    "Top with sliced banana and honey"
+                ],
+                "calories_per_serving": 300,
+                "protein": 10,
+                "carbs": 55,
+                "fat": 5
+            }
+        },
+        {
+            "meal_type": "lunch",
+            "recipe": {
+                "title": "Grilled Chicken Salad",
+                "description": "Fresh salad with grilled chicken breast",
+                "ingredients": [
+                    {"name": "chicken breast", "amount": 150, "unit": "g"},
+                    {"name": "mixed greens", "amount": 100, "unit": "g"},
+                    {"name": "cherry tomatoes", "amount": 50, "unit": "g"},
+                    {"name": "olive oil", "amount": 15, "unit": "ml"}
+                ],
+                "instructions": [
+                    "Grill the chicken breast",
+                    "Mix salad ingredients",
+                    "Add sliced chicken and dress with olive oil"
+                ],
+                "calories_per_serving": 400,
+                "protein": 35,
+                "carbs": 10,
+                "fat": 25
+            }
+        },
+        {
+            "meal_type": "dinner",
+            "recipe": {
+                "title": "Baked Salmon with Vegetables",
+                "description": "Oven-baked salmon with roasted vegetables",
+                "ingredients": [
+                    {"name": "salmon fillet", "amount": 150, "unit": "g"},
+                    {"name": "broccoli", "amount": 100, "unit": "g"},
+                    {"name": "carrots", "amount": 100, "unit": "g"},
+                    {"name": "olive oil", "amount": 15, "unit": "ml"}
+                ],
+                "instructions": [
+                    "Preheat oven to 200°C",
+                    "Season salmon and vegetables",
+                    "Bake for 20 minutes"
+                ],
+                "calories_per_serving": 450,
+                "protein": 35,
+                "carbs": 20,
+                "fat": 28
+            }
+        }
+    ],
+    "vegetarian": [
+        {
+            "meal_type": "breakfast",
+            "recipe": {
+                "title": "Overnight Oats with Berries",
+                "description": "Healthy and filling breakfast with oats and fresh berries",
+                "ingredients": [
+                    {"name": "rolled oats", "amount": 50, "unit": "g"},
+                    {"name": "almond milk", "amount": 120, "unit": "ml"},
+                    {"name": "mixed berries", "amount": 100, "unit": "g"},
+                    {"name": "honey", "amount": 15, "unit": "ml"}
+                ],
+                "instructions": [
+                    "Mix oats and almond milk in a jar",
+                    "Leave overnight in refrigerator",
+                    "Top with berries and honey before serving"
+                ],
+                "calories_per_serving": 350,
+                "protein": 8,
+                "carbs": 65,
+                "fat": 7
+            }
+        },
+        {
+            "meal_type": "lunch",
+            "recipe": {
+                "title": "Quinoa Buddha Bowl",
+                "description": "Nutritious bowl with quinoa and roasted vegetables",
+                "ingredients": [
+                    {"name": "quinoa", "amount": 75, "unit": "g"},
+                    {"name": "chickpeas", "amount": 100, "unit": "g"},
+                    {"name": "sweet potato", "amount": 150, "unit": "g"},
+                    {"name": "kale", "amount": 50, "unit": "g"}
+                ],
+                "instructions": [
+                    "Cook quinoa according to package instructions",
+                    "Roast sweet potato and chickpeas",
+                    "Combine all ingredients in a bowl"
+                ],
+                "calories_per_serving": 400,
+                "protein": 15,
+                "carbs": 70,
+                "fat": 8
+            }
+        },
+        {
+            "meal_type": "dinner",
+            "recipe": {
+                "title": "Lentil Curry",
+                "description": "Spiced lentil curry with rice",
+                "ingredients": [
+                    {"name": "red lentils", "amount": 100, "unit": "g"},
+                    {"name": "coconut milk", "amount": 200, "unit": "ml"},
+                    {"name": "brown rice", "amount": 75, "unit": "g"},
+                    {"name": "curry powder", "amount": 10, "unit": "g"}
+                ],
+                "instructions": [
+                    "Cook lentils with coconut milk and spices",
+                    "Prepare rice separately",
+                    "Serve curry over rice"
+                ],
+                "calories_per_serving": 450,
+                "protein": 20,
+                "carbs": 75,
+                "fat": 12
+            }
+        }
+    ],
+    "keto": [
+        {
+            "meal_type": "breakfast",
+            "recipe": {
+                "title": "Keto Breakfast Bowl",
+                "description": "High-fat breakfast bowl with eggs and avocado",
+                "ingredients": [
+                    {"name": "eggs", "amount": 2, "unit": "piece"},
+                    {"name": "avocado", "amount": 1, "unit": "piece"},
+                    {"name": "bacon", "amount": 30, "unit": "g"},
+                    {"name": "spinach", "amount": 30, "unit": "g"}
+                ],
+                "instructions": [
+                    "Cook eggs and bacon",
+                    "Slice avocado",
+                    "Combine all ingredients in a bowl"
+                ],
+                "calories_per_serving": 400,
+                "protein": 20,
+                "carbs": 5,
+                "fat": 35
+            }
+        },
+        {
+            "meal_type": "lunch",
+            "recipe": {
+                "title": "Keto Chicken Caesar Salad",
+                "description": "Low-carb Caesar salad with grilled chicken",
+                "ingredients": [
+                    {"name": "chicken breast", "amount": 150, "unit": "g"},
+                    {"name": "romaine lettuce", "amount": 100, "unit": "g"},
+                    {"name": "parmesan cheese", "amount": 30, "unit": "g"},
+                    {"name": "caesar dressing", "amount": 30, "unit": "ml"}
+                ],
+                "instructions": [
+                    "Grill chicken breast",
+                    "Chop lettuce",
+                    "Combine ingredients with dressing"
+                ],
+                "calories_per_serving": 450,
+                "protein": 40,
+                "carbs": 3,
+                "fat": 30
+            }
+        },
+        {
+            "meal_type": "dinner",
+            "recipe": {
+                "title": "Keto Steak with Vegetables",
+                "description": "Grilled steak with low-carb vegetables",
+                "ingredients": [
+                    {"name": "ribeye steak", "amount": 200, "unit": "g"},
+                    {"name": "broccoli", "amount": 100, "unit": "g"},
+                    {"name": "butter", "amount": 30, "unit": "g"},
+                    {"name": "garlic", "amount": 5, "unit": "g"}
+                ],
+                "instructions": [
+                    "Season and grill steak to desired doneness",
+                    "Steam broccoli",
+                    "Serve with garlic butter"
+                ],
+                "calories_per_serving": 600,
+                "protein": 45,
+                "carbs": 8,
+                "fat": 45
+            }
+        }
+    ]
+}
