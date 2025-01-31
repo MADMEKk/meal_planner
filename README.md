@@ -1,6 +1,6 @@
-# AI Meal Planner
+#  Meal Planner
 
-An intelligent meal planning application that helps users create personalized meal plans, manage recipes, and generate shopping lists.
+A  meal planning application that helps users create personalized meal plans, manage recipes, and generate shopping lists.
 
 ## Features
 
